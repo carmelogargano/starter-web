@@ -20,3 +20,7 @@ This is asimple we project
 
 Add some text here and other text
 Add second row
+
+## Copyright
+
+2022 Git.Training
