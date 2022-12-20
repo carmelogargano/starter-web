@@ -20,6 +20,7 @@ This is asimple we project
 
 Add some text here and other text
 Add second row
+Add third row before merging
 
 ## Copyright
 
