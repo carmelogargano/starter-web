@@ -23,4 +23,4 @@ Add second row
 
 ## Copyright
 
-2022 Git.Training - PIPPO
+2022 Git.Training - Carmelo Gargano
