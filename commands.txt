@@ -1,0 +1,500 @@
+   74  git statis
+   75  git status
+   76  git help log
+   77  clear
+   78  git help log
+   79  git log
+   80  git log --abbrev-commit 
+   81  git log --abbrev-commit clear
+   82  clear
+   83  git log --abbrev-commit clear
+   84  clear
+   85  git log --abbrev-commit 
+   86  git log --oneline --graph --decorate
+   87  git log 7ec8664...5dcece1
+   88  git log --since="3 days ago"
+   89  clear
+   90  git log --since="3 days ago"
+   91  ls
+   92  clear
+   93  ls
+   94  git log humans.txt
+   95  history | grep cd
+   96  cd "/C/Users/cgargano/OneDrive - ELIDATA SPA/Documenti/1000 - Corsi/2022/04 - 20220912 - Git Complete/projects"
+   97  cd
+   98  vi .bash_profile 
+   99  . .bash_profile 
+  100  cd.projects 
+  101  alias cd.
+  102  . .bash_profile 
+  103  alias
+  104  cd.projects 
+  105  vi .bash_profile 
+  106  . .bash_profile 
+  107  cd.projects 
+  108  cd cd C/Users/cgargano/OneDrive - ELIDATA SPA/Documenti/1000 - Corsi/2022/04 - 20220912 - Git Complete/projects
+  109  cd C/Users/cgargano/OneDrive - ELIDATA SPA/Documenti/1000 - Corsi/2022/04 - 20220912 - Git Complete/projects
+  110  history | grep -i cd
+  111  cd "/C/Users/cgargano/OneDrive - ELIDATA SPA/Documenti/1000 - Corsi/2022/04 - 20220912 - Git Complete"
+  112  cd
+  113  vi .bash_profile 
+  114  . .bash_profile 
+  115  cd-pro
+  116  cd.projects 
+  117  cd /C/Users/cgargano/OneDrive - ELIDATA SPA/Documenti/1000 - Corsi/2022/04 - 20220912 - Git Complete
+  118  ll
+  119  cd "/C/Users/cgargano/OneDrive - ELIDATA SPA/Documenti/1000 - Corsi/2022/04 - 20220912 - Git Complete"
+  120  ll
+  121  cd projects/
+  122  pwd
+  123  cd
+  124  vi .bash_profile 
+  125  . .bash_profile 
+  126  cd.projects 
+  127  cd.projects 
+  128  cat .bash_profile 
+  129  vi .bash_profile 
+  130  . .bash_profile 
+  131  cd.projects 
+  132  cd C/
+  133  cd /C/Users/
+  134  cd
+  135  vi .bash_profile 
+  136  . .bash_profile 
+  137  cd.projects 
+  138  git log
+  139  cd starter-web/
+  140  git log 
+  141  clear
+  142  gi clear
+  143  cleat
+  144  clear
+  145  git show 3af09f996a5dcb25b7096568f2ea025b3f7f869c
+  146  clear
+  147  ## ALIAS
+  148  ls
+  149  git status
+  150  git log -all --graph --decorate --oneline
+  151  git log --all --graph --decorate --oneline
+  152  git hist
+  153  git config --global alias.hist "log --all --graph --decorate --oneline"
+  154  git hist
+  155  npp ~/.gitconfig 
+  156  git hist
+  157  clear
+  158  ## GIT Ignore
+  159  ls
+  160  git status
+  161  touch .DS_Store
+  162  git status
+  163  ls -al
+  164  npp .gitignore
+  165  npp .git
+  166  npp .gitignore 
+  167  git status
+  168  git add .gitignore 
+  169  git status
+  170  git commit -m "Adding git ignore file to exclude unwanted files"
+  171  git status
+  172  npp access.log
+  173  ls
+  174  git status
+  175  npp .gitignore 
+  176  git status
+  177  mkdir log
+  178  mv access.log log/
+  179  cd log
+  180  ls
+  181  cp access.log access.log.2022-09014
+  182  ls
+  183  cd .
+  184  git status
+  185  cd ..
+  186  git status
+  187  npp .gitignore 
+  188  git status
+  189  git commit -am "Update .gitignore"
+  190  git status
+  191  clear
+  192  ## PUSH
+  193  ls
+  194  git status
+  195   git pull origin master 
+  196   git push origin master 
+  197  clear
+  198  ### SECTION 7
+  199  p4merge.exe 
+  200  cd.projects 
+  201  git config --global merge.tool p4merge
+  202  git config --global mergetool.p4merge.path "C:/Proram File/Perforce/p4merge.exe"
+  203  git config --global mergetool.prompt false
+  204  git config --global diff.tool p4merge
+  205  git config --global difftool.p4merge.path "C:/Proram File/Perforce/p4merge.exe"
+  206  git config --global difftool.prompt false
+  207  git config --global --list
+  208  git config --global -e
+  209  clear
+  210  cd starter-web/
+  211  s
+  212  ls
+  213  npp README.md 
+  214  git status
+  215  git commit -m "MOd REAME"
+  216  git status
+  217  git add README.md 
+  218  git status
+  219  git commit -m "MOd REAME"
+  220  git status
+  221  git push origin master
+  222  npp README.md 
+  223  git stats
+  224  git status
+  225  git commit -am "Add new section: dev"
+  226  git status
+  227  git push origin master
+  228  npp README.md 
+  229  git status
+  230  git commit -am "Addsing description"
+  231  npp README.md 
+  232  git commit -am "Adding introduction"
+  233  git status
+  234  npp README.md 
+  235  git status
+  236  git add README.md 
+  237  it status
+  238  git status
+  239  npp README.md 
+  240  git status
+  241  ## COMPARISONS
+  242  git diff README.md
+  243  git difftool README.md
+  244  git config -e
+  245  git config --list
+  246  npp ~/.gitconfig 
+  247  git difftool README.md
+  248  npp ~/.gitconfig 
+  249  git difftool README.md
+  250  npp ~/.gitconfig 
+  251  git difftool README.md
+  252  npp ~/.gitconfig 
+  253  git difftool README.md
+  254  npp ~/.gitconfig 
+  255  git difftool README.md
+  256  C:/Proram File/Perforce/p4merge.exe
+  257  npp ~/.gitconfig 
+  258  C:/Proram File/Perforce/p4merge.exe
+  259  git difftool README.md
+  260  C:/Proram Files/Perforce/p4merge.exe
+  261  "C:/Proram Files/Perforce/p4merge.exe"
+  262  cd "C:/Proram Files/Perforce/"
+  263  cd "C:\Program Files\Perforce"
+  264  cd --
+  265  cd -
+  266  cd.projects 
+  267  npp ~/.gitconfig 
+  268  git difftool README.md
+  269  npp ~/.gitconfig 
+  270  git difftool README.md
+  271  npp ~/.gitconfig 
+  272  git difftool README.md
+  273  npp ~/.gitconfig 
+  274  git difftool README.md
+  275  npp ~/.gitconfig 
+  276  git difftool README.md
+  277  git difftool README.md
+  278  npp ~/.gitconfig 
+  279  git difftool README.md
+  280  npp ~/.gitconfig 
+  281  git difftool README.md
+  282  npp ~/.gitconfig 
+  283  git config --global merge.tool p4merge
+  284  git config --global mergetool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  285  git config --global diff.tool p4merge
+  286  git config --list
+  287  npp ~/.gitconfig 
+  288  git config --global difftool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  289  [200~git config --global difftool.prompt false
+  290  ~git config --global difftool.prompt false
+  291  git config --global difftool.prompt false
+  292  git config --global mergetool.prompt false
+  293  git config --global difftool.prompt false
+  294  git config --global difftool.prompt false
+  295  npp ~/.gitconfig 
+  296  git difftool README.md
+  297  git difftool 
+  298  npp ~/.gitconfig 
+  299  ll
+  300  cd starter-web/
+  301  git difftool 
+  302  cd.projects 
+  303  cd starter-web/
+  304  ll
+  305  git difftool README.md
+  306  clear
+  307  ##
+  308  ## COMPARISINS
+  309  ##
+  310  ls
+  311  it status
+  312  git status
+  313  git add README.md 
+  314  git status
+  315  git commit -m "Adding README file"
+  316  git push origin master
+  317  git df
+  318  dit diff
+  319  git diff README.md
+  320  npp README.md 
+  321  npp README.md 
+  322  git diff README.md
+  323  git status
+  324  git difftool README.md
+  325  git restore README.md 
+  326  git status
+  327  vi RE
+  328  vim README.md 
+  329  gittdif 
+  330  git diff HEAD 
+  331  git diff HEAD README.md
+  332  vi README.md 
+  333  git status
+  334  git diff head README.md
+  335  vi README.md 
+  336  git diff HEAD README.md
+  337  git difftool  HEAD README.md
+  338  git status
+  339   clear
+  340  git dif --staged HEAD
+  341  clear
+  342  git diff --staged HEAD
+  343  git status
+  344  git add README.md 
+  345  git status
+  346  git diff --staged HEAD
+  347  git difftool  --staged HEAD
+  348  clear
+  349  l
+  350  ls
+  351  vi simple.html 
+  352  ls
+  353  r, Q
+  354  rm Q
+  355  vi simple.html 
+  356  git status
+  357  vi README.md 
+  358  git status
+  359  git diff
+  360  clear
+  361  fit diff
+  362  clear
+  363  git diff
+  364  clear
+  365  git diff -- README.md
+  366  clera
+  367  clear
+  368  git diff -- simple.html
+  369  git difftool 
+  370  git difftool 
+  371  clear
+  372  #
+  373  # COMPARISINS Between Commits
+  374  git log --oneline 
+  375  git diff 5c05047 HEAD 
+  376  git log --oneline 
+  377  git diff 702c8e1 b59f1c0
+  378  git diff HEAD HEAD^
+  379  cd.projects 
+  380  ls
+  381  git log --oneline 
+  382  cd starter-web/
+  383  git log --oneline 
+  384  git diff b59f1c0 1f0e3c2
+  385  git difftool b59f1c0 1f0e3c2
+  386  clear
+  387  ## Comparisons: Local vs Remote
+  388  git diff master origin/master
+  389  git status
+  390  git add .
+  391  git status
+  392  git commit -m "Updating repo with changes from compare section"
+  393  git status
+  394  git pull
+  395  git push origin master 
+  396  clear
+  397  # \
+  398  #/
+  399  cat << EOF
+  400  #
+  401  #
+  402  # Branching & Merging
+  403  #
+  404  #
+  405  EOF
+  406  git status
+  407  Il seguente comando mostra i "branch" esistenti (local&remote)
+  408  git branch -a
+  409  git branch myNewBranch
+  410  git branch -a
+  411  Per spostarmi sul nuovo branch uso il seguent comando
+  412  git checkout myNewBranch 
+  413  git branch -a
+  414  git log --oneline --decorate
+  415  # NB: Il primo commit sul nuovo branch coincide con l'ultimo del branch Master
+  416  # Per tornare al branch MASTER:
+  417  git checkout master
+  418  # RENAME BRANCH:
+  419  git branch -m myNewBranch newBRANCH
+  420  git -a
+  421  git branch -a
+  422  git branch -d newBRANCH 
+  423  git branch -a
+  424  clear
+  425  ############ Happy Path: Fast Forward
+  426  git status
+  427  git branch
+  428  git branch -a
+  429   git checkout -b title-change
+  430  git branch -a
+  431  git branc
+  432  git branch
+  433  npp simple.html 
+  434  git status
+  435  # In un unico comando aggiungiamo al repo il file con commento
+  436  git commit -am "Changing title of HTML file"
+  437  git status
+  438  git log --online
+  439  git log --oneline
+  440  git log --oneline --decorate
+  441  git checkout master
+  442  git branch
+  443  git log --oneline --decorate
+  444  git diff master title-change 
+  445  git difftool  master title-change 
+  446  git merge
+  447  git merge title-change 
+  448  git log --oneline --decorate
+  449  git log --oneline --decorate --graph
+  450  git branch
+  451  git sttaus
+  452  git status
+  453  git branch -d title-change 
+  454  git branch
+  455  git log --oneline --decorate --graph
+  456  cd "C:\Users\cgargano\OneDrive - ELIDATA SPA\Documenti\1000 - Corsi\2022\04 - 20220912 - Git Complete\projects\starter-web"
+  457  git status
+  458  history 
+  459  git branch
+  460  git branch -a
+  461  npp simple.html 
+  462  gti checkout
+  463  git checkout --help
+  464  git log --oneline --decorate --graph
+  465  git checkout -b add-copyright
+  466  git branch -a
+  467  git branch 
+  468  npp simple.html 
+  469  git status
+  470  git commit -am "Adding copyright notice"
+  471  git status
+  472  git diff master add-copyright 
+  473  npp README.md 
+  474  git commit -ma "Adding copyright notice to Readme"
+  475  git commit -am "Adding copyright notice to Readme"
+  476  git status
+  477  git log --oneline --graph --decorate
+  478  git branch master 
+  479  git checkout master
+  480  git merge add-copyright 
+  481  git log --oneline --graph --decorate
+  482  git merge add-copyright --no-ff
+  483  git log --oneline --graph --decorate
+  484  git branch -a
+  485  git checkout add-copyright 
+  486  vi simple.html 
+  487  vi README.md 
+  488  git commit -am "Modifying copyright notice"
+  489  git status
+  490  git commit -am "Modifying copyright and simplet.html"
+  491  git status
+  492  git checkout master 
+  493  git checkout add-copyright --no-ff
+  494  git merge add-copyright --no-ff
+  495  git log --oneline --graph --decorate
+  496  git branch -d add-copyright 
+  497  git branch 
+  498  git branch -a
+  499  git log --oneline --graph --decorate
+  500  cd "C:\Users\cgargano\OneDrive - ELIDATA SPA\Documenti\1000 - Corsi\2022\04 - 20220912 - Git Complete\projects\starter-web"
+  501  pwd
+  502  git status
+  503  git branch -a
+  504  git branch saturno
+  505  git branch -a
+  506  git checkout saturno
+  507  git branch -a
+  508  git log --oneline --decorate
+  509  git brach -m saturno pluto
+  510  git branch -m saturno plutone
+  511  git log --oneline --decorate
+  512  git branch -d plutone 
+  513  git checkout master
+  514  git branch -d plutone
+  515  git checkout -b title-change
+  516  vi simple.html 
+  517  git status
+  518  git commit -am "Changing title"
+  519  �git log --oneline
+  520  git log --oneline
+  521  git checkout master 
+  522  git diff master title-change
+  523  git merge title-change
+  524  gitt merge title-change
+  525  git merge title-change 
+  526  git log --oneline
+  527  git log --oneline --grach
+  528  git log --oneline --graph
+  529  git log --oneline --graph --decorate
+  530  clear
+  531  clear
+  532  git log --oneline --graph --decorate
+  533  git branch
+  534  git branch
+  535  git branch -d title-change
+  536  git branch
+  537  git log --oneline --graph --decorate
+  538  git status
+  539  git branch
+  540  git branch -a
+  541  git diff master remotes/masters
+  542  git diff master remotes/origin/master
+  543  git diff master remotes/master
+  544  git diff master remotes/origin/master
+  545  git push
+  546  git diff master remotes/origin/master
+  547  git checkout -b add-copyright
+  548  git branch
+  549  git checkout master
+  550  git checkout add-copyright 
+  551  vi simple.html 
+  552  git commit -am "Added copyright mess"
+  553  git status
+  554  vi README.md 
+  555  git status
+  556  git commit -am "Modified readme file"
+  557  git log --oneline --graph
+  558  git staus
+  559  git checkout master
+  560  git merge add-copyright 
+  561   git checkout add-copyright 
+  562  vi simple.html 
+  563  vi README.md 
+  564  git commit -am "CG 1 to test noff option"
+  565  git checkout master
+  566  git merge add-copyright --no-ff
+  567  git log --oneline --graph --decorate
+  568  git branch -d add-copyright 
+  569  git log --oneline --graph --decorate
+  570  git status
+  571  git checkout -b simple-changes
+  572  history 
+  573  history > commands.txt
