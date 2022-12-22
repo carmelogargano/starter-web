@@ -25,4 +25,4 @@ Add third row before merging
 
 ## Copyright
 
-2022 Git.Training - Carmelo Gargano 1
+2022 Git.Training. All rights reserved.
